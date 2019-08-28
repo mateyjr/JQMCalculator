@@ -186,6 +186,7 @@ RocknCoder.Display = function() {
 			$displayControl = currNumber;
 		};
 	// all of the functions below are visible outside of this function
+	// Just new comment by mathew 
 	return {
 		clearDisplay: clearDisplay,
 		clearError: clearError,
